@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmaiecnj
 - 👀 I’m interested in 50% computer networking, 20% programming, 20% robotics and 10% how to become rich HAHAHAHAHA 
-- 🌱 I’m currently learning advance machine learning and deep learning (College course)
+- 🌱 I’m currently learning advance machine learning and deep learning
 - 💞️ I’m looking to collaborate on what I'm currently learning.
 - 📫 How to reach me? Through my personal gmail trichacanja27@gmail.com
 - 😄 Pronouns: she/her
