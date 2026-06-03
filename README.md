@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
  
-![](https://github-readme-stats.shion.dev/api?username=tmaiecnj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=tmaiecnj&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=tmaiecnj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tmaiecnj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
