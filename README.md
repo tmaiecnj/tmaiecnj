@@ -33,19 +33,16 @@
 
 |Project|Description|Stack|
 |---|---|---|
-|[Vision-based Wall Area Estimation](https://github.com/tmaiecnj/vision-wall-area-estimation)|A computer vision-powered application that detects, segments, estimates the wall area, and automatically calculates the volume of the paint.|Python · Computer Vision · Robotic|
+|[Vision-based Wall Area Estimation](https://github.com/tmaiecnj/vision-wall-area-estimation)|A computer vision-powered application that detects, segments, estimates the wall area, and automatically calculates the volume of the paint.|Python · Computer Vision|
 |[Business Intelligence on Geospatial Data using Deep Learning](https://github.com/ivllnv/CPE313-Final-Project)|The project focuses on the design and implementation of a business intelligence system using geospatial data. The goal is to develop a comprehensive framework that leverages geospatial information to identify and assess potential business opportunities in specific regions or areas of interest.|Python · Deep Learning · NLP|
 
 ---
 
 ## 📈 GitHub Stats
- 
+
 ![](https://github-readme-stats.shion.dev/api?username=tmaiecnj&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ![](https://streak-stats.demolab.com/?user=tmaiecnj&theme=shadow_red&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/username=tmaiecnj&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tmaiecnj&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 📬 Let's Connect
