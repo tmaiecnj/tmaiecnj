@@ -38,13 +38,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=tmaiecnj&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tmaiecnj&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tmaiecnj&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-
 ## 📬 Let's Connect
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tricha-maie-c-19992422a/)
