@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Tricha Maie Canja**
 
-> '> Computer Engineer → Aspiring Data Scientist · Machine Learning Engineer '
+> '> Computer Engineer → Aspiring Data Engineer '
 
 ---
 
